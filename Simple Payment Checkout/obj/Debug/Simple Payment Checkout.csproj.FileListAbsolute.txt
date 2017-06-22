@@ -1,0 +1,10 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\bin\Debug\Simple Payment Checkout.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\bin\Debug\Simple Payment Checkout.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\bin\Debug\Simple Payment Checkout.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\bin\Debug\Bunifu_UI_v1.5.3.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple Payment Checkout.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple_Payment_Checkout.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple_Payment_Checkout.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple Payment Checkout.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple Payment Checkout.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Simple Payment Checkout\Simple Payment Checkout\obj\Debug\Simple Payment Checkout.pdb
